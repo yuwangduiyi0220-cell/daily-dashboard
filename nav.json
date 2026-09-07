@@ -1,38 +1,7 @@
 {
- "updated_at": "2026-09-04T10:16:54.836927+08:00",
- "run_date": "2026-09-03",
- "status": "ok",
- "message": "三账户09-03净值已更新；无资金划转；801总策略(含星汇腿)已合并",
- "accounts": [
-  {
-   "account": "81099801",
-   "prev_date": "2026-09-02",
-   "prev_nav": 1447089.27,
-   "curr_nav": 1425917.74,
-   "net_transfer": 0,
-   "change_ex_transfer": -21171.53,
-   "change_pct": -1.4630424286125776,
-   "alert": false
-  },
-  {
-   "account": "81099802",
-   "prev_date": "2026-09-02",
-   "prev_nav": 1163328.37,
-   "curr_nav": 1163675.01,
-   "net_transfer": 0,
-   "change_ex_transfer": 346.64,
-   "change_pct": 0.02979726179979007,
-   "alert": false
-  },
-  {
-   "account": "81099803",
-   "prev_date": "2026-09-02",
-   "prev_nav": 358809.44,
-   "curr_nav": 360305.6,
-   "net_transfer": 0,
-   "change_ex_transfer": 1496.16,
-   "change_pct": 0.4169789958703357,
-   "alert": false
-  }
- ]
+  "updated_at": "2026-09-07T13:20:00+08:00",
+  "run_date": "2026-09-07",
+  "status": "failed",
+  "message": "网易企业邮箱(kkeli@neufinc.com)未处于登录态，页面跳转到登录页；本地『中和报表』文件夹与本次上传中均无当日邮件压缩包/附件可用于回退解析，故本次未能获取三账户当日估值数据。请登录网易企业邮箱后重跑，或手动导出当日Daily valuation report邮件压缩包放入文件夹后重跑。",
+  "accounts": []
 }
