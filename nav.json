@@ -1,7 +1,38 @@
 {
-  "updated_at": "2026-09-08T10:06:17+08:00",
-  "run_date": "2026-09-08",
-  "status": "failed",
-  "message": "Claude in Chrome 扩展未连接（多次重试后仍无法建立浏览器连接），无法登录网易企业邮箱/飞书邮箱抓取当日 Daily valuation report；本地 uploads/中和报表 目录也未发现今日新邮件压缩包或估值表附件，故本次未能更新净值数据。请检查 Claude in Chrome 扩展是否已安装并登录，或手动导出当日邮件zip后重跑。",
-  "accounts": []
+  "updated_at": "2026-09-08T10:28:41+08:00",
+  "run_date": "2026-09-07",
+  "status": "ok",
+  "message": "三账户2026-09-07估值已更新（剔除划转，当日均无出入金）。星汇星河一号(801总策略)本次因飞书网页版浏览器不受支持未能合并，其余流程正常。",
+  "accounts": [
+    {
+      "account": "81099801",
+      "prev_date": "2026-09-04",
+      "prev_nav": 1351650.63,
+      "curr_nav": 1292931.52,
+      "net_transfer": 0,
+      "change_ex_transfer": -58719.11,
+      "change_pct": -4.344252035009955,
+      "alert": false
+    },
+    {
+      "account": "81099802",
+      "prev_date": "2026-09-04",
+      "prev_nav": 1164630.33,
+      "curr_nav": 1165402.92,
+      "net_transfer": 0,
+      "change_ex_transfer": 772.59,
+      "change_pct": 0.06633778806016935,
+      "alert": false
+    },
+    {
+      "account": "81099803",
+      "prev_date": "2026-09-04",
+      "prev_nav": 358083.92,
+      "curr_nav": 354761.58,
+      "net_transfer": 0,
+      "change_ex_transfer": -3322.34,
+      "change_pct": -0.9278104417534213,
+      "alert": false
+    }
+  ]
 }
