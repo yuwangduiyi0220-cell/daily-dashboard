@@ -1,38 +1,7 @@
 {
-  "updated_at": "2026-09-08T10:28:41+08:00",
-  "run_date": "2026-09-07",
-  "status": "ok",
-  "message": "三账户2026-09-07估值已更新（剔除划转，当日均无出入金）。星汇星河一号(801总策略)本次因飞书网页版浏览器不受支持未能合并，其余流程正常。",
-  "accounts": [
-    {
-      "account": "81099801",
-      "prev_date": "2026-09-04",
-      "prev_nav": 1351650.63,
-      "curr_nav": 1292931.52,
-      "net_transfer": 0,
-      "change_ex_transfer": -58719.11,
-      "change_pct": -4.344252035009955,
-      "alert": false
-    },
-    {
-      "account": "81099802",
-      "prev_date": "2026-09-04",
-      "prev_nav": 1164630.33,
-      "curr_nav": 1165402.92,
-      "net_transfer": 0,
-      "change_ex_transfer": 772.59,
-      "change_pct": 0.06633778806016935,
-      "alert": false
-    },
-    {
-      "account": "81099803",
-      "prev_date": "2026-09-04",
-      "prev_nav": 358083.92,
-      "curr_nav": 354761.58,
-      "net_transfer": 0,
-      "change_ex_transfer": -3322.34,
-      "change_pct": -0.9278104417534213,
-      "alert": false
-    }
-  ]
+  "updated_at": "2026-09-09T10:00:00+08:00",
+  "run_date": "2026-09-09",
+  "status": "failed",
+  "message": "Claude in Chrome 插件未连接（多次重试无响应），且本地中和报表文件夹内无当日邮件压缩包/附件，两条数据路径均不可用，本次未能更新净值数据。请检查Chrome插件登录状态，或手动导出当日邮件zip上传。",
+  "accounts": []
 }
