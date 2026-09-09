@@ -1,7 +1,11 @@
 {
-  "updated_at": "2026-09-09T10:00:00+08:00",
-  "run_date": "2026-09-09",
-  "status": "failed",
-  "message": "Claude in Chrome 插件未连接（多次重试无响应），且本地中和报表文件夹内无当日邮件压缩包/附件，两条数据路径均不可用，本次未能更新净值数据。请检查Chrome插件登录状态，或手动导出当日邮件zip上传。",
-  "accounts": []
+  "updated_at": "2026-09-09T16:10:00+08:00",
+  "run_date": "2026-09-08",
+  "status": "ok",
+  "message": "",
+  "accounts": [
+    {"account": "81099801", "prev_date": "2026-09-07", "prev_nav": 1292931.52, "curr_nav": 1297294.13, "net_transfer": 0, "change_ex_transfer": 4362.61, "change_pct": 0.3374, "alert": false},
+    {"account": "81099802", "prev_date": "2026-09-07", "prev_nav": 1165402.92, "curr_nav": 1165276.94, "net_transfer": 0, "change_ex_transfer": -125.98, "change_pct": -0.0108, "alert": false},
+    {"account": "81099803", "prev_date": "2026-09-07", "prev_nav": 354761.58, "curr_nav": 354117.93, "net_transfer": 0, "change_ex_transfer": -643.65, "change_pct": -0.1814, "alert": false}
+  ]
 }
