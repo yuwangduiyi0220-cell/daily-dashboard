@@ -1,11 +1,7 @@
 {
-  "updated_at": "2026-09-09T16:10:00+08:00",
-  "run_date": "2026-09-08",
-  "status": "ok",
-  "message": "",
-  "accounts": [
-    {"account": "81099801", "prev_date": "2026-09-07", "prev_nav": 1292931.52, "curr_nav": 1297294.13, "net_transfer": 0, "change_ex_transfer": 4362.61, "change_pct": 0.3374, "alert": false},
-    {"account": "81099802", "prev_date": "2026-09-07", "prev_nav": 1165402.92, "curr_nav": 1165276.94, "net_transfer": 0, "change_ex_transfer": -125.98, "change_pct": -0.0108, "alert": false},
-    {"account": "81099803", "prev_date": "2026-09-07", "prev_nav": 354761.58, "curr_nav": 354117.93, "net_transfer": 0, "change_ex_transfer": -643.65, "change_pct": -0.1814, "alert": false}
-  ]
+  "updated_at": "2026-09-10T09:40:01+08:00",
+  "run_date": "2026-09-10",
+  "status": "failed",
+  "message": "自动化数据抓取失败：Claude in Chrome 扩展未连接（多次重试均提示未连接），无法访问网易企业邮箱看板获取当日 Daily valuation report。本地 中和报表 文件夹中也未发现新的邮件压缩包/附件可用于回退路径处理。请检查 Chrome 扩展登录状态后手动重跑本任务，或手动导出当日邮件zip放入文件夹。",
+  "accounts": []
 }
