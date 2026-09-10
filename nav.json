@@ -1,7 +1,38 @@
 {
-  "updated_at": "2026-09-10T09:40:01+08:00",
+  "updated_at": "2026-09-10T16:32:35+08:00",
   "run_date": "2026-09-10",
-  "status": "failed",
-  "message": "自动化数据抓取失败：Claude in Chrome 扩展未连接（多次重试均提示未连接），无法访问网易企业邮箱看板获取当日 Daily valuation report。本地 中和报表 文件夹中也未发现新的邮件压缩包/附件可用于回退路径处理。请检查 Chrome 扩展登录状态后手动重跑本任务，或手动导出当日邮件zip放入文件夹。",
-  "accounts": []
+  "status": "ok",
+  "message": "已更新 2026-09-09 净值数据（对比 2026-09-08）",
+  "accounts": [
+    {
+      "account": "81099801",
+      "prev_date": "2026-09-08",
+      "prev_nav": 1297294.13,
+      "curr_nav": 1272945.74,
+      "net_transfer": 0,
+      "change_ex_transfer": -24348.39,
+      "change_pct": -1.876859644774612,
+      "alert": false
+    },
+    {
+      "account": "81099802",
+      "prev_date": "2026-09-08",
+      "prev_nav": 1165276.94,
+      "curr_nav": 1166167.05,
+      "net_transfer": 0,
+      "change_ex_transfer": 890.11,
+      "change_pct": 0.07638613358296352,
+      "alert": false
+    },
+    {
+      "account": "81099803",
+      "prev_date": "2026-09-08",
+      "prev_nav": 354117.93,
+      "curr_nav": 352624.96,
+      "net_transfer": 0,
+      "change_ex_transfer": -1492.97,
+      "change_pct": -0.42160248705847,
+      "alert": false
+    }
+  ]
 }
