@@ -1,38 +1,7 @@
-{
-  "updated_at": "2026-09-14T14:30:54+08:00",
+﻿{
+  "updated_at": "2026-09-14T14:54:19+08:00",
   "run_date": "2026-09-14",
-  "status": "ok",
-  "message": "已更新 2026-09-10、2026-09-11 净值数据（最新对比 2026-09-10）",
-  "accounts": [
-    {
-      "account": "81099801",
-      "prev_date": "2026-09-10",
-      "prev_nav": 1293370.18,
-      "curr_nav": 1327613.03,
-      "net_transfer": 0,
-      "change_ex_transfer": 34242.85,
-      "change_pct": 2.647567612854666,
-      "alert": false
-    },
-    {
-      "account": "81099802",
-      "prev_date": "2026-09-10",
-      "prev_nav": 1165827.58,
-      "curr_nav": 1165780.91,
-      "net_transfer": 0,
-      "change_ex_transfer": -46.67,
-      "change_pct": -0.004003164859071657,
-      "alert": false
-    },
-    {
-      "account": "81099803",
-      "prev_date": "2026-09-10",
-      "prev_nav": 336687.2,
-      "curr_nav": 327685.7,
-      "net_transfer": 0,
-      "change_ex_transfer": -9001.5,
-      "change_pct": -2.673549811219434,
-      "alert": false
-    }
-  ]
+  "status": "no_report",
+  "message": "今日(2026-09-14)网易邮箱未收到新的Daily valuation report；最新一批估值邮件(09-11报告日，于今日8:55补发)日期已在本地表中，视为无新增交易日报告。",
+  "accounts": []
 }
