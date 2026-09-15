@@ -1,7 +1,38 @@
-﻿{
-  "updated_at": "2026-09-14T14:54:19+08:00",
+{
+  "updated_at": "2026-09-15T13:26:19.738896+08:00",
   "run_date": "2026-09-14",
-  "status": "no_report",
-  "message": "今日(2026-09-14)网易邮箱未收到新的Daily valuation report；最新一批估值邮件(09-11报告日，于今日8:55补发)日期已在本地表中，视为无新增交易日报告。",
-  "accounts": []
+  "status": "ok",
+  "message": "2026-09-14净值已更新；801总策略本次未合并(飞书邮箱未登录，已跳过星汇腿)",
+  "accounts": [
+    {
+      "account": "81099801",
+      "prev_date": "2026-09-11",
+      "prev_nav": 1327613.03,
+      "curr_nav": 1344307.81,
+      "net_transfer": 0.0,
+      "change_ex_transfer": 16694.78,
+      "change_pct": 1.2575034759940573,
+      "alert": false
+    },
+    {
+      "account": "81099802",
+      "prev_date": "2026-09-11",
+      "prev_nav": 1165780.91,
+      "curr_nav": 1166202.62,
+      "net_transfer": 0.0,
+      "change_ex_transfer": 421.71,
+      "change_pct": 0.0361740354797852,
+      "alert": false
+    },
+    {
+      "account": "81099803",
+      "prev_date": "2026-09-11",
+      "prev_nav": 327685.7,
+      "curr_nav": 336186.3,
+      "net_transfer": 0.0,
+      "change_ex_transfer": 8500.6,
+      "change_pct": 2.5941321211148294,
+      "alert": false
+    }
+  ]
 }
