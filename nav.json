@@ -1,38 +1,38 @@
 {
-    "updated_at":  "2026-09-15T13:26:19.738896+08:00",
-    "run_date":  "2026-09-14",
-    "status":  "ok",
-    "message":  "2026-09-14净值已更新；801总策略本次未合并(飞书邮箱未登录，已跳过星汇腿)",
-    "accounts":  [
-                     {
-                         "account":  "81099801",
-                         "prev_date":  "2026-09-11",
-                         "prev_nav":  1327613.03,
-                         "curr_nav":  1344307.81,
-                         "net_transfer":  0.0,
-                         "change_ex_transfer":  16694.78,
-                         "change_pct":  1.2575034759940573,
-                         "alert":  false
-                     },
-                     {
-                         "account":  "81099802",
-                         "prev_date":  "2026-09-11",
-                         "prev_nav":  1165780.91,
-                         "curr_nav":  1049156.45,
-                         "net_transfer":  0.0,
-                         "change_ex_transfer":  421.71,
-                         "change_pct":  0.0361740354797852,
-                         "alert":  false
-                     },
-                     {
-                         "account":  "81099803",
-                         "prev_date":  "2026-09-11",
-                         "prev_nav":  327685.7,
-                         "curr_nav":  336186.30,
-                         "net_transfer":  0.0,
-                         "change_ex_transfer":  8500.6,
-                         "change_pct":  2.5941321211148294,
-                         "alert":  false
-                     }
-                 ]
+ "updated_at": "2026-09-17T11:48:08+08:00",
+ "run_date": "2026-09-16",
+ "status": "ok",
+ "message": "",
+ "accounts": [
+  {
+   "account": "81099801",
+   "prev_date": "2026-09-15",
+   "prev_nav": 1350415.29,
+   "curr_nav": 1354253.63,
+   "net_transfer": 0,
+   "change_ex_transfer": 3838.339999999851,
+   "change_pct": 0.2842340447729861,
+   "alert": false
+  },
+  {
+   "account": "81099802",
+   "prev_date": "2026-09-15",
+   "prev_nav": 1049041.63,
+   "curr_nav": 1049710.47,
+   "net_transfer": 0,
+   "change_ex_transfer": 668.8400000000838,
+   "change_pct": 0.06375724097813772,
+   "alert": false
+  },
+  {
+   "account": "81099803",
+   "prev_date": "2026-09-15",
+   "prev_nav": 317603.13,
+   "curr_nav": 331932.56,
+   "net_transfer": 0,
+   "change_ex_transfer": 14329.42999999999,
+   "change_pct": 4.511740800539338,
+   "alert": true
+  }
+ ]
 }
