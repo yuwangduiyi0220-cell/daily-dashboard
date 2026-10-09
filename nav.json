@@ -1,38 +1,38 @@
 {
- "updated_at": "2026-09-20T22:43:21+08:00",
- "run_date": "2026-09-17",
+ "updated_at": "2026-10-09T17:49:06+08:00",
+ "run_date": "2026-10-08",
  "status": "ok",
  "message": "",
  "accounts": [
   {
    "account": "81099801",
-   "prev_date": "2026-09-16",
-   "prev_nav": 1354253.63,
-   "curr_nav": 1352702.88,
+   "prev_date": "2026-10-07",
+   "prev_nav": 595563.74,
+   "curr_nav": 576056.1,
    "net_transfer": 0,
-   "change_ex_transfer": -1550.75,
-   "change_pct": -0.1145095693780788,
-   "alert": false
+   "change_ex_transfer": -19507.64,
+   "change_pct": -3.275491553599287,
+   "alert": true
   },
   {
    "account": "81099802",
-   "prev_date": "2026-09-16",
-   "prev_nav": 1166756.64,
-   "curr_nav": 1167284.27,
+   "prev_date": "2026-10-07",
+   "prev_nav": 611916.59,
+   "curr_nav": 612078.54,
    "net_transfer": 0,
-   "change_ex_transfer": 527.63,
-   "change_pct": 0.04522194105534477,
+   "change_ex_transfer": 161.95,
+   "change_pct": 0.02646602537775121,
    "alert": false
   },
   {
    "account": "81099803",
-   "prev_date": "2026-09-16",
-   "prev_nav": 331932.56,
-   "curr_nav": 327822.85,
+   "prev_date": "2026-10-07",
+   "prev_nav": 344724.64,
+   "curr_nav": 301640.71,
    "net_transfer": 0,
-   "change_ex_transfer": -4109.71,
-   "change_pct": -1.238115959458759,
-   "alert": false
+   "change_ex_transfer": -43083.93,
+   "change_pct": -12.49807092408596,
+   "alert": true
   }
  ]
 }
