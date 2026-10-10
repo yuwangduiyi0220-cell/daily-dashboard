@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T10:31:42+08:00",
+ "updated_at": "2026-10-10T10:43:23+08:00",
  "run_date": "2026-10-08",
  "status": "ok",
  "message": "",
@@ -17,11 +17,11 @@
   {
    "account": "81099802",
    "prev_date": "2026-10-07",
-   "prev_nav": 611916.59,
-   "curr_nav": 612078.54,
+   "prev_nav": 616450.59,
+   "curr_nav": 616612.54,
    "net_transfer": 0,
    "change_ex_transfer": 161.95,
-   "change_pct": 0.02646602537775121,
+   "change_pct": 0.02627136750734067,
    "alert": false
   },
   {
